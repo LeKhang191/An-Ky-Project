@@ -1,2 +1,2 @@
 # An-Ky-Project
-Game tương tác AI(LLM) phát triển bằng Unity và Python(FastAPI/Flask)
+A conversational AI-driven game project, integrating a Unity client with a Python (FastAPI/Flask) backend for Large Language Model (LLM) processing.
